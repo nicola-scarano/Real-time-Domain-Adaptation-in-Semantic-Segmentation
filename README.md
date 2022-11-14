@@ -19,4 +19,4 @@ thorough analysis and comparison among different compression
 and optimization techniques (such as pruning, dropout, weight
 sharing) has been carried out to find the best model.
 
-For the paper please contact me at: scaranonicola@studenti.polito.it
+![Screenshot from 2022-11-14 17-10-32](https://user-images.githubusercontent.com/58294122/201709173-0cb39e12-ab90-426a-8b32-4ac9471e0226.png)
